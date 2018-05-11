@@ -1,0 +1,6 @@
+\babel@toc {ngerman}{}
+\contentsline {section}{\numberline {1}Vier Rollen in der Gruppe}{1}{section.1}
+\contentsline {subsection}{\numberline {1.1}}{1}{subsection.1.1}
+\contentsline {subsubsection}{\numberline {1.1.1}}{1}{subsubsection.1.1.1}
+\contentsline {paragraph}{}{1}{section*.2}
+\contentsline {subparagraph}{}{1}{section*.3}
